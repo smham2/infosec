@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	 <head>
+        <title><![CDATA[RSS Live Links OPML Export]]></title>
+        <dateCreated>Thu Sep 13 2018 10:35:36 GMT-0400 (Eastern Daylight Time)</dateCreated>
+    </head>
+    <body>
+        <outline type="rss" version="RSS" text="News - Packet Storm" xmlUrl="https://rss.packetstormsecurity.com/news/" title="News - Packet Storm"/>
+        <outline type="rss" version="RSS" text="Naked Security" xmlUrl="https://nakedsecurity.sophos.com/feed/" title="Naked Security"/>
+        <outline type="rss" version="RSS" text="HealthcareInfoSecurity.com RSS" xmlUrl="https://feeds.feedburner.com/healthcareinfosecurity/com?format=xml" title="HealthcareInfoSecurity.com RSS"/>
+        <outline type="rss" version="RSS" text="English - WeLiveSecurity" xmlUrl="https://feeds.feedburner.com/eset/blog?format=xml" title="English - WeLiveSecurity"/>
+        <outline type="rss" version="RSS" text="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp" title="Dark Reading"/>
+        <outline type="rss" version="RSS" text="Legaltech news - Law Technology News" xmlUrl="https://feeds.feedblitz.com/lawtechnologynews&amp;x=1" title="Legaltech news - Law Technology News"/>
+        <outline type="rss" version="RSS" text="Social-Engineer.Com" xmlUrl="https://www.social-engineer.com/feed/" title="Social-Engineer.Com"/>
+        <outline type="rss" version="RSS" text="The Intercept" xmlUrl="https://theintercept.com/feed/?rss" title="The Intercept"/>
+        <outline type="rss" version="RSS" text="Office of Inadequate Security" xmlUrl="https://www.databreaches.net/feed/" title="Office of Inadequate Security"/>
+        <outline type="rss" version="RSS" text="Microsoft Security Content: Latest Security Advisories" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory" title="Microsoft Security Content: Latest Security Advisories"/>
+        <outline type="rss" version="RSS" text="Microsoft Security Content: Comprehensive Edition" xmlUrl="https://technet.microsoft.com/en-us/security/rss/comprehensive" title="Microsoft Security Content: Comprehensive Edition"/>
+        <outline type="rss" version="RSS" text="vuldb.com - Updates" xmlUrl="https://vuldb.com/?rss.updates" title="vuldb.com - Updates"/>
+        <outline type="rss" version="RSS" text="vuldb.com - Recent" xmlUrl="https://vuldb.com/?rss.recent" title="vuldb.com - Recent"/>
+        <outline type="rss" version="RSS" text="US-CERT Current Activity" xmlUrl="https://www.us-cert.gov/ncas/current-activity.xml" title="US-CERT Current Activity"/>
+        <outline type="rss" version="RSS" text="CERT Recently Published Vulnerability Notes" xmlUrl="https://www.kb.cert.org/vulfeed" title="CERT Recently Published Vulnerability Notes"/>
+        <outline type="rss" version="RSS" text="National Vulnerability Database" xmlUrl="https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml" title="National Vulnerability Database"/>
+        <outline type="rss" version="RSS" text="National Vulnerability Database (Analyzed)" xmlUrl="https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml" title="National Vulnerability Database (Analyzed)"/>
+        <outline type="rss" version="RSS" text="MSRC" xmlUrl="https://blogs.technet.microsoft.com/msrc/feed" title="MSRC"/>
+        <outline type="rss" version="RSS" text="SANS Internet Storm Center" xmlUrl="https://isc.sans.edu/rssfeed_full.xml" title="SANS Internet Storm Center"/>
+        <outline type="rss" version="RSS" text="Black Hat (Youtube)" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BlackHatOfficialYT" title="Black Hat (Youtube)"/>
+        <outline type="rss" version="RSS" text="SANS - Security Awareness Tip of the Day" xmlUrl="https://www.sans.org/tip-of-the-day/rss" title="SANS - Security Awareness Tip of the Day"/>
+        <outline type="rss" version="RSS" text="Malware-Traffic-Analysis.net - Blog Entries" xmlUrl="http://malware-traffic-analysis.net/blog-entries.rss" title="Malware-Traffic-Analysis.net - Blog Entries"/>
+        <outline type="rss" version="RSS" text="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" title="Krebs on Security"/>
+        <outline type="rss" version="RSS" text="(ISC)2 Blog" xmlUrl="https://feeds.feedburner.com/isc2Blog?format=xml" title="(ISC)2 Blog"/>
+        <outline type="rss" version="RSS" text="EFF :: Deeplinks" xmlUrl="https://www.eff.org/rss/updates.xml" title="EFF :: Deeplinks"/>
+        <outline type="rss" version="RSS" text="Sucuri Blog" xmlUrl="https://feeds.feedburner.com/sucuri/blog" title="Sucuri Blog"/>
+        <outline type="rss" version="RSS" text="TrendLabs Security Intelligence Blog" xmlUrl="https://feeds.feedburner.com/Anti-MalwareBlog?format=xml" title="TrendLabs Security Intelligence Blog"/>
+        <outline type="rss" version="RSS" text="Paul&apos;s Security Weekly" xmlUrl="http://podcast.securityweekly.com/rss" title="Paul&apos;s Security Weekly"/>
+        <outline type="rss" version="RSS" text="Schneier on Security" xmlUrl="https://www.schneier.com/blog/atom.xml" title="Schneier on Security"/>
+        <outline type="rss" version="RSS" text="Google Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" title="Google Project Zero"/>
+        <outline type="rss" version="RSS" text="SEI: Insider Threat" xmlUrl="http://insights.sei.cmu.edu/insider-threat/atom.xml" title="SEI: Insider Threat"/>
+        <outline type="rss" version="RSS" text="Talos Blog" xmlUrl="https://feeds.feedburner.com/feedburner/Talos?format=xml" title="Talos Blog"/>
+        <outline type="rss" version="RSS" text="Beers with Talos Podcast" xmlUrl="https://feeds.feedburner.com/BeersWithTalosPodcast" title="Beers with Talos Podcast"/>
+        <outline type="rss" version="RSS" text="Threatpost | The first stop for security news" xmlUrl="https://threatpost.com/feed/" title="Threatpost | The first stop for security news"/>
+        <outline type="rss" version="RSS" text="SANS Curated Security News Feed" xmlUrl="https://isc.sans.edu/newssummaryrss.xml" title="SANS Curated Security News Feed"/>
+        <outline type="rss" version="RSS" text="CISecurity Blog" xmlUrl="https://www.cisecurity.org/feed/?post_type=blog" title="CISecurity Blog"/>
+        <outline type="rss" version="RSS" text="Twitter Search / dumpmon" xmlUrl="https://twitrss.me/twitter_user_to_rss/?user=dumpmon" title="Twitter Search / dumpmon"/>
+        <outline type="rss" version="RSS" text="Kali Linux Feed" xmlUrl="https://www.kali.org/feed/" title="Kali Linux Feed"/>
+        <outline type="rss" version="RSS" text="SecurityWeek" xmlUrl="https://feeds.feedburner.com/Securityweek?format=xml" title="SecurityWeek"/>
+        <outline type="rss" version="RSS" text="Fierce HealthIT" xmlUrl="https://www.fiercehealthcare.com/rss/it/xml" title="Fierce HealthIT"/>
+        <outline type="rss" version="RSS" text="Zero Day Initiative: Blog" xmlUrl="https://www.zerodayinitiative.com/blog?format=rss" title="Zero Day Initiative: Blog"/>
+        <outline type="rss" version="RSS" text="risk.org Digest" xmlUrl="http://catless.ncl.ac.uk/risksrss2.xml" title="risk.org Digest"/>
+        <outline type="rss" version="RSS" text="ISSA Webinars (Brighttalk)" xmlUrl="https://www.brighttalk.com/channel/16125/feed/rss" title="ISSA Webinars (Brighttalk)"/>
+        <outline type="rss" version="RSS" text="(ISC)2 Security Congress Webinars" xmlUrl="https://www.brighttalk.com/channel/7711/feed/rss" title="(ISC)2 Security Congress Webinars"/>
+        <outline type="rss" version="RSS" text="(ISC)2 Security Briefings Webinars" xmlUrl="https://www.brighttalk.com/channel/13159/feed/rss" title="(ISC)2 Security Briefings Webinars"/>
+        <outline type="rss" version="RSS" text="(ISC)2 Think Tank Webinars" xmlUrl="https://www.brighttalk.com/channel/5385/feed/rss" title="(ISC)2 Think Tank Webinars"/>
+        <outline type="rss" version="RSS" text="EC-Council Webinars (Brighttalk)" xmlUrl="https://www.brighttalk.com/channel/574/feed/rss" title="EC-Council Webinars (Brighttalk)"/>
+        <outline type="rss" version="RSS" text="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews?format=xml" title="The Hacker News"/>
+    </body>
+</opml>
